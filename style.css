@@ -1,0 +1,54 @@
+body{
+
+    background-color: rgb(36, 141, 190);
+    
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 500%;
+}
+
+h2{
+    color: rgb(14, 3, 119);
+    text-align: center;
+    font-size: 250%;
+}
+
+p{
+    text-align: center;
+    font-size: 150%;
+}
+
+.button {
+    text-align: center;
+}
+
+p :hover{
+    color: rgb(255, 0, 0);
+}
+
+h2 :hover{
+    color: rgb(255, 0, 0);
+}
+
+button :hover{
+    color: rgb(255, 0, 0);
+}
+
+.CompraUrso {
+    text-align: center;
+}
+
+.CompraTela {
+    text-align: center;
+}
+
+.lixoUrso {
+    text-align: center;
+}
+
+.lixoTela {
+    text-align: center;
+}
